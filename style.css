@@ -1,0 +1,34 @@
+
+
+:root {
+    --bg-color: #0066ff;
+    --primary-color: #0021da;
+    --secondary-color: #0011fc;
+    --font: "Nunito Sans", sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+}
+
+header {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1px;
+}
+
+h1 {
+    font-size: 2rem;color:
+    color var(--bg-color); 
+    font-weight: 700; 
+}
+
+nav {
+    display: flex;
+    ustify-content: center;
+    font-weight: 400;
+}
